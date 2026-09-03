@@ -2,8 +2,23 @@ __pycache__/
 *.pyc
 .env
 *.db
+*.db-shm
+*.db-wal
+*.pckl
 .idea/
 .venv/
 venv/
 *.log
 config/load_key.py
+.langgraph_api/
+chat_history/
+data/
+src/
+
+# 学习教程目录（不需要上传）
+LangChain-tutorial/
+LangChain8.31/
+LangChain基础7.24/
+RAG项目案例8.2/
+储存库/
+进阶/

@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "health_agent": "app/agents/Healthy_eating.py:agent"
+  },
+  "env": ".env"
+}
